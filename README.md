@@ -1,2 +1,2 @@
 # JavaSimpleSnakeGame
-First project with Java.
+First GUI project with Java.
